@@ -3,7 +3,7 @@ using EndavaNaloga.Models;
 using EndavaNaloga.Repositories;
 using Microsoft.AspNetCore.Mvc;
 
-namespace TestProject.Tests
+namespace EndavaNaloga.Tests
 {
     public class ProductControllerTests
     {
