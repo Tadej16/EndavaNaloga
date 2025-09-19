@@ -5,7 +5,7 @@ VisualStudioVersion = 17.14.36327.8 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EndavaNaloga", "EndavaNaloga\EndavaNaloga.csproj", "{4E6CEE90-13BC-4BEE-B01C-56650FCE7404}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EndavaNalogaTests", "TestProject.Tests\EndavaNalogaTests.csproj", "{11E05109-02F7-40E6-8FA2-DE5878B7F3AE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EndavaNaloga.Tests", "TestProject.Tests\EndavaNaloga.Tests.csproj", "{11E05109-02F7-40E6-8FA2-DE5878B7F3AE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
